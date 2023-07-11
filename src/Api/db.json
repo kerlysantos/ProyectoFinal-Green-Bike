@@ -1,0 +1,114 @@
+{
+  "bicycles": [
+    {
+      "id": "1",
+      "serial_number": 2324,
+      "size": "s",
+      "type": "BMX",
+      "location": "Obelisco",
+      "price_per_hour": 15,
+      "state": "Disponible",
+      "need_reparation": "No",
+      "image": "https://images.squarespace-cdn.com/content/v1/5ec41d002368e95e183cf71c/07dd330a-cb82-40a4-a615-fd1656beaa7a/Screen+Shot+2021-04-07+at+3.06.12+PM.png"
+    },
+    {
+      "id": "2",
+      "serial_number": "456",
+      "size": "l",
+      "type": "Eléctrica",
+      "location": "Puerto Madero",
+      "price_per_hour": "17",
+      "state": "Disponible",
+      "need_reparation": "No",
+      "image": "https://images.squarespace-cdn.com/content/v1/5ec41d002368e95e183cf71c/07dd330a-cb82-40a4-a615-fd1656beaa7a/Screen+Shot+2021-04-07+at+3.06.12+PM.png"
+    },
+    {
+      "id": "3",
+      "serial_number": "234",
+      "size": "Infantil",
+      "type": "Ciudad",
+      "location": "Recoleta",
+      "price_per_hour": 15,
+      "state": "No Disponible",
+      "need_reparation": "si",
+      "image": "https://images.squarespace-cdn.com/content/v1/5ec41d002368e95e183cf71c/07dd330a-cb82-40a4-a615-fd1656beaa7a/Screen+Shot+2021-04-07+at+3.06.12+PM.png"
+    },
+    {
+      "id": "4",
+      "serial_number": "567",
+      "size": "l",
+      "type": "Eléctrica",
+      "location": "Recoleta",
+      "price_per_hour": 16,
+      "state": "Disponible",
+      "need_reparation": "no",
+      "image": "C:\\fakepath\\GreenBikes.png"
+    },
+    {
+      "serial_number": "223",
+      "size": "Infantil",
+      "type": "Ciudad",
+      "location": "Obelisco",
+      "price_per_hour": 233444444,
+      "state": "No disponible",
+      "need_reparation": "no",
+      "image": "C:\\fakepath\\firma-Lili.png",
+      "id": "xB96gGo"
+    },
+    {
+      "serial_number": "La nueva",
+      "size": "l",
+      "type": "Eléctrica",
+      "location": "Recoleta",
+      "price_per_hour": 15,
+      "state": "Disponible",
+      "need_reparation": "no",
+      "image": "C:\\fakepath\\4ed33825-aa84-4b0d-8733-ad5d129a7618.png",
+      "id": "akL5Dc2"
+    },
+    {
+      "serial_number": "1717",
+      "size": "L",
+      "type": "BMX",
+      "location": "palermo",
+      "price_per_hour": 123,
+      "state": "Disponible",
+      "need_reparation": "no",
+      "image": "C:\\fakepath\\300px-Color_star-es.svg.png",
+      "id": "ELeZ_H8"
+    },
+    {
+      "serial_number": "3333dfg",
+      "size": "M",
+      "type": "Eléctrica",
+      "location": "Recoleta",
+      "price_per_hour": 678,
+      "state": "Disponible",
+      "need_reparation": "no",
+      "image": "C:\\fakepath\\300px-Color_star-es.svg.png",
+      "id": "sn1dFQd"
+    },
+    {
+      "serial_number": "666",
+      "size": "L",
+      "type": "BMX",
+      "location": "Obelisco",
+      "price_per_hour": 1130,
+      "state": "Disponible",
+      "need_reparation": "no",
+      "image": "C:\\fakepath\\bicycle-3128728_1280.png",
+      "id": "WDk1-ZV"
+    },
+    {
+      "serial_number": "888",
+      "size": "S",
+      "type": "Eléctrica",
+      "location": "Recoleta",
+      "price_per_hour": 119,
+      "state": "Disponible",
+      "need_reparation": "no",
+      "image": "C:\\fakepath\\bicycle-161315_1280-min.png",
+      "id": "f4iLrd5"
+    }
+  ]
+}

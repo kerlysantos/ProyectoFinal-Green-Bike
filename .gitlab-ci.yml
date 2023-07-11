@@ -1,0 +1,38 @@
+
+#stages:
+#  - build
+  #- test
+  #- deploy
+
+#variables:
+#  AWS_ACCESS_KEY_ID: $AWS_ACCESS_KEY_ID
+ # AWS_SECRET_ACCESS_KEY: $AWS_SECRET_ACCESS_KEY
+ # AWS_BUCKET_URL: $BUCKET_URL
+
+#build:
+#  image: node:14.18.0
+#  stage: build
+#  script:
+#     - npm install
+#    - npm run build
+#  artifacts:
+#    paths:
+#      - $CI_PROJECT_DIR/*
+
+#unit-test-job: 
+#  stage: test
+#  image: node:14
+#  script:
+#    - npm test
+
+#deploy:
+#  image: python:latest
+#  stage: deploy
+#  dependencies:
+#    - build
+#  script:
+#    - pip install awscli
+#    - aws configure set aws_access_key_id ${AWS_ACCESS_KEY_ID} 
+#    - aws configure set aws_secret_access_key ${AWS_SECRET_ACCESS_KEY} 
+##    - aws s3 sync $CI_PROJECT_DIR/src ${AWS_BUCKET_URL} --delete 
+#    - aws s3 cp $CI_PROJECT_DIR s3://AWS_BUCKET_URL --recursive
